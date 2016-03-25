@@ -50,6 +50,6 @@ If you wish to expand the claim, all you have to do is:
 2. While holding the shovel, right-click a corner of your claim
 3. Right-click where you want to expand the claim to
 
-Easy-peasy!
+Easy-peasy! 
 
 If you don't have enough claimblocks to make the claim, or theres another issue with it, GPP will let you know.
