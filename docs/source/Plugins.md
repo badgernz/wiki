@@ -1,17 +1,16 @@
-Plugins
-=======
+#Plugins
 
 Here on the FrozenSoul Network we host a range of modpacks with a range of plugins that we pick to give you, the player the best experience possible.
 Below we explain abit about the main ones
 
-BetterChunkLoader
------------------
+##BetterChunkLoader
+
 This plugin replaces all other chunkloaders ingame and by default we disable all other chunkloaders infavor of BetterChunkLoader
 Each chunkloader can load up to 49 blocks and it has options for 1x1, 3x3, 5x5 & 7x7.
 When loading chunks, the chunk that the chunkloader is in, is the center.
 
-Usage
-^^^^^
+###Usage
+
 To use BetterChunkLoader all you need is an Iron block and a blaze rod.
 
 1. Place down the block, anywhere is fine just be aware of the chunk borders so you are loading the expected chunks. (press F9 to see chunk outlines)
@@ -20,21 +19,21 @@ To use BetterChunkLoader all you need is an Iron block and a blaze rod.
 
 3. Select the appropriate option for the number of chunks you want to load. After this step it should tell you Chunk loader created and now you're good to go!
 
-Essentials
-----------
+##Essentials
+
 This plugin is one of the backbone plugins of many networks and servers.
 
 Essentials allows you to Teleport, use homes and many other things.
 
-Forge Restrictor
-----------------
+##Forge Restrictor
+
 Forge Restrictor interacts with WorldGuard and GPP to help protect your claim from greifers. 
 This plugin allows us to restrict item useage near another players base that you aren't trusted in.
 So if you see yourself momentarily drop an item your trying to use, this could be whats causing it.
 Please check around you for other land claims and when you first build try build away from other people whose land you arent trusted in.
 
-GriefPreventionPlus (GPP)
--------------------
+##GriefPreventionPlus (GPP)
+
 GriefPreventionPlus is the plugin that we use to help protect your land!
 
 It has many awesome features and is a absolute breeze to use!
