@@ -22,21 +22,28 @@ You can delete one claim or all claims. To delete a claim you have to stand in t
  
 Commands
 ========
- 
-* ``/Trust [Player]`` - Gives the player permissions to build
-* ``/TrustList`` - Lists all trusted players
-* ``/UnTrust [Player]`` - Revokes any permissions of the player
-* ``/AbandonClaim`` - Deletes the claim you're standing in.
-* ``/AbandonAllClaims`` - Deletes all of your claims.
-* ``/AccessTrust [Player]`` - Gives a player permission to use your buttons, levers...
-* ``/ContainerTrust [Player]`` - Gives a player permission to use and open everything.
-* ``/PermissionTrust [Player]`` - Grants a player permission to share his permission level with others.
-* ``/Untrust All`` - Removes all permissions for all players in your claim.
-* ``/SubdivideClaims`` - Switches your shovel to subdivison mode, so you can subdivide your claims.
-* ``/BasicClaims`` - Puts your shovel back in basic claim mode.
+Note, most of these need to be run while inside your claim to work
+
+* ``/claimslist`` - Shows you how many claimblocks you have used, how many you have left and where your claims are
+* ``/entrytrust [player]`` - Gives a player permission to access your claim, but not interact with anything
+* ``/entrytrust public`` - Allows the public access your claim, but not interact with anything
+* ``/trust [player]`` - Gives the player permissions to build
+* ``/trustlist`` - Lists all trusted players
+* ``/untrust [player]`` - Revokes any permissions of the player
+* ``/untrust public`` - Revokes any permissions of the public
+* ``/abandonclaim`` - Deletes the claim you're standing in.
+* ``/abandonallclaims`` - Deletes all of your claims.
+* ``/accesstrust [player]`` - Gives a player permission to use your buttons, levers...
+* ``/containertrust [player]`` - Gives a player permission to use and open everything.
+* ``/permissiontrust [player]`` - Grants a player permission to share his permission level with others.
+* ``/untrust all`` - Removes all permissions for all players in your claim.
+* ``/subdivideclaims`` - Switches your shovel to subdivison mode, so you can subdivide your claims.
+* ``/basicclaims`` - Puts your shovel back in basic claim mode.
  
 Fakeplayers
 ===========
+
+/trust #[name]
  
 * [CoFH]
 * [[Forestry]]
@@ -48,3 +55,13 @@ Fakeplayers
 * [ThaumcraftTablet]
 * [Mekanism]
 * [EioKillera]
+* [mekanism]
+* [opencomputers]
+* [stevescart]
+* [minefactory]
+* OpenModsFakePlayer-001
+* OpenModsFakePlayer-002
+* OpenModsFakePlayer-003
+* OpenModsFakePlayer-004
+* ...etc..
+* OpenModsFakePlayer-010
