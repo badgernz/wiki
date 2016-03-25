@@ -21,7 +21,7 @@ You can delete one claim or all claims. To delete a claim you have to stand in t
 
 Note, most of these need to be run while inside your claim to work
 
-* ``/claimslist`` - Shows you how many claimblocks you have used/left/total & where your claims are
+* ``/claimslist`` - Shows you how many claimblocks you have used/left/total and where your claims are
 * ``/entrytrust [player]`` - Gives a player permission to access your claim, but not interact with anything
 * ``/entrytrust public`` - Allows the public access your claim, but not interact with anything
 * ``/trust [player]`` - Gives the player permissions to build
