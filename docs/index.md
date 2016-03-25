@@ -1,2 +1,0 @@
-FrozenSoul Network
-==================
