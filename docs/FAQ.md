@@ -1,5 +1,5 @@
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
- <script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<script>
      $(document).ready(function(){
      $('.markdown-block .sqs-block-content h2').css('cursor','pointer');
      $(".markdown-block .sqs-block-content h2").nextUntil("h2").slideToggle();
