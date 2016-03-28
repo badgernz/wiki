@@ -9,5 +9,6 @@ We do our best to keep this upto date, but enevitably, there will be one or two 
 1. Go to our [Wiki GitHub Repo](https://github.com/badgernz/wiki/tree/master/docs)
 2. To edit these pages you must be logged into GitHub, if you don't have an account, please make one if you wish to help.
 3. Click the name of the page you wish to edit and then click edit. ``Please note all pages are formatted in Markdown``
-4. Once you have made the changes you wish to make, please fill out the Commit changes info and then create a pull request
-5. We will review the changes that you made and if it all looks good we will merge it with the master branch.
+4. You may also create new pages for new topics if you wish to do so.
+5. Once you have made the changes you wish to make, please fill out the Commit changes info and then create a pull request
+6. We will review the changes that you made and if it all looks good we will merge it with the master branch.
