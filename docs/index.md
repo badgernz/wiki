@@ -4,7 +4,7 @@ Welcome to the FrozenSoul Networks' Wiki, We have created this to provide you, o
 
 ###Help us keep this upto date!
 
-We do our best to keep this upto date, but enevitably, there will be one or two things that are missing or incorrect, we are all human after all. If you would like to help us keep this information accurate and as upto date as possible, please follow these few instructions.
+We do our best to keep this upto date, but inevitably, there will be one or two things that are missing or incorrect, we are all human after all. If you would like to help us keep this information accurate and as upto date as possible, please follow these few instructions.
 
 1. Go to our [Wiki GitHub Repo](https://github.com/badgernz/wiki/tree/master/docs)
 2. To edit these pages you must be logged into GitHub, if you don't have an account, please make one if you wish to help.
