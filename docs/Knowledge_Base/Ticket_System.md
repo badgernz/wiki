@@ -1,7 +1,7 @@
 #Ticket System
 
 Our Ticket System has 2 seperate systems, one on Enjin and one In-game.
-We endevour to get all tickets answered and completed in timely manner, but if a staff member is not around, or is unable to help, please be patient, your ticket will be dealth with ASAP!
+We endevour to get all tickets answered and completed in timely manner, but if a staff member is not around, or is unable to help, please be patient, your ticket will be dealt with ASAP!
 
 ##In-Game Ticket System
 
@@ -9,6 +9,8 @@ Our Ingame Ticket System is the main way that you should bring a problem to our 
 Staff get notified in-game as soon as you make a ticket. If they are able to deal with said ticket, 
 They will claim that ticket and then proceed to help you. Once it has been claimed, it is their
 responsibility to see that ticket to its completion in a timely and professional manner.
+
+Please remain online while the staff reviews your ticket. If you are not online, we cannot help you.
 
 ###Commands
 
