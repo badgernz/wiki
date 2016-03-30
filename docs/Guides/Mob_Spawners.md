@@ -6,7 +6,7 @@ If you want to make mob-spawners in your base, there are some basic rules you sh
 
 * You need to kill all the mobs you spawn. Make sure this is fast and automated as piles of mobs will make the server lag, and no one likes that.
 
-* You need to collect all drops from the mobs you kill. Make sure this is fast and automated as piles of drops will make the server lag and no one like s that.
+* You need to collect all drops from the mobs you kill. Make sure this is fast and automated as piles of drops will make the server lag and no one likes that.
 
 * Turn off the spawner when you log off.
 
