@@ -14,7 +14,7 @@ Please remain online while the staff reviews your ticket. If you are not online,
 
 ###Commands
 
-* ``/tickets [problem]`` - This will create a new ticket, please replace [problem] with your issue (do not include [])
+* ``/ticket [problem]`` - This will create a new ticket, please replace [problem] with your issue (do not include [])
 * ``/tickets list `` - This lists any tickets that you made that are currently open or claimed by a staff member
 * ``/tickets comments add # `` - This will add a comment to your ticket, please replace the # with the ticket number
 * ``/tickets comments # `` - This will show you the comments that are on your ticket, please replace the # with the ticket number
