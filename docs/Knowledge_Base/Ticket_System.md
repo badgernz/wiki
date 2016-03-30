@@ -10,14 +10,14 @@ Staff get notified in-game as soon as you make a ticket. If they are able to dea
 They will claim that ticket and then proceed to help you. Once it has been claimed, it is their
 responsibility to see that ticket to its completion in a timely and professional manner.
 
-Please remain online while the staff reviews your ticket. If you are not online, we cannot help you.
+Please remain online while the staff reviews your ticket. If you are not online, we cannot help you in most cases.
 
 ###Commands
 
-* ``/ticket [problem]`` - This will create a new ticket, please replace [problem] with your issue (do not include [])
-* ``/ticket list `` - This lists any tickets that you made that are currently open or claimed by a staff member
-* ``/ticket comments add # `` - This will add a comment to your ticket, please replace the # with the ticket number
-* ``/ticket comments # `` - This will show you the comments that are on your ticket, please replace the # with the ticket number
+* ``/tickets [problem]`` - This will create a new ticket, please replace [problem] with your issue (do not include [])
+* ``/tickets list `` - This lists any tickets that you made that are currently open or claimed by a staff member
+* ``/tickets comments add # `` - This will add a comment to your ticket, please replace the # with the ticket number
+* ``/tickets comments # `` - This will show you the comments that are on your ticket, please replace the # with the ticket number
 
 ##Enjin Ticket System
 
