@@ -25,7 +25,7 @@ You can create a ticket on our website [here](http://www.frozensoul.enjin.com/ti
 This may take longer to solve your issue, however an assigned staff member will get a notification when a ticket is created.
 This method is good if there is an issue on the website itself
 
-###Create a Forum Post (http://frozensoul.enjin.com)
+###Create a Forum Post [here](http://www.frozensoul.enjin.com/forum)
 If all else fails and for some reason you don't hear back from us within 2 days, make a forum post. 
 Be sure to use specific details about your problem and we will try and help you the best that we can either by finding you in-game, or by contacting you through the forums.
 This method is also great for getting help with a mod or something that someone else might come across in the future.
