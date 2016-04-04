@@ -1,7 +1,7 @@
 #Unable to do any research involving Imbued Fire?
 
 This will most likely be because we have disabled Imbued Fire in all our servers configs due to having so many issues with players accidentally letting it get out of control.
-We believe that the Imbued Fire doesnt have much gameplay element and it is easily skipped.
+We believe that the Imbued Fire doesnt have much gameplay value and it is easily skipped.
 All you have to do is edit your clients configs to disable Imbued Fire.
 Once you have done this, your client will ignore the Imbued Fire and allow you to complete research without it.
 
