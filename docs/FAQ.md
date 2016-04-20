@@ -20,6 +20,7 @@ All our servers run GriefPreventionPlus due to it being so easy to use for you, 
 
 ##When do Secondary worlds reset?
 Secondary worlds reset automatically on the 1st of every month during the first restart of the day, which should be at midnight EST.
+The End also resets on the 16th of every month aswell
 
 ##What are Secondary worlds?
 Secondary worlds are worlds like the Nether, Deep Dark, The End, Twilight Forest, etc.
