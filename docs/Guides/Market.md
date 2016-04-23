@@ -2,6 +2,8 @@
 Hey! We have a new market system, and at first glance, it can be quite intimidating. Don't worry! Here's a step by step guide on the new features of the system!
 These steps are also displayed in game, but not as in depth as this post.
 
+**Note: You can _NOT_ use the number pad**
+
 
 
 ## Step 1:
@@ -25,8 +27,8 @@ The 2 item icons are named price and amount. The first icon changes the price an
 The default price and quantity is $1 for 1 item, even if you placed 3 stacks of the item in your stock!
 If you wish to sell a stack at a time, mouse over the icon named amount and press any number 5-9. (you can only sell a stack at once so doesn't matter wich number you press)
 After that, you migth wanna adjust the price. It may seem tricky at first, but trust me, it's easy.
-The default price is $1 per quantity, if you mouse over the item and press 1 you're increasing the price with $1, and if you then left-click, you decrease with 1 again. 
-The text says to press 1-9 (can not use numpad for this) to change the price, and here is the scale for each number:  
+The default price is $1 per quantity, if you mouse over the item and press 1 you're increasing the price with $1, and if you then left-click, you decrease with 1 again.  
+The text says to press 1-9 to change the price, and here is the scale for each number:  
 1 will increase the price by $1  
 2 will increase the price by $5  
 3 will increase the price by $10  
@@ -38,9 +40,8 @@ The text says to press 1-9 (can not use numpad for this) to change the price, an
 9 will increase the price by $10000  
 
 The only tricky part is that you're always starting on $1. If you press number 3 your price will be $11, and if you left-click it will decrease with the same amount you increased with.
-To get an even number like 20 easily, you can to press number 3 two times (you're now on 21), then press number 1 once (now on 22), and then you can left-click 2 times to go down to $20.
-(you could also press 1 x19 if you wish)
-If you wish to sell a quantity of an item between 1 and 64, here is the scale for that too (numpad still does not work):  
+To get an even number like 20 easily, you can to press number 3 two times (you're now on 21), then press number 1 once (now on 22), and then you can left-click 2 times to go down to $20.  
+If you wish to sell a quantity of an item between 1 and 64, here is the scale for that:  
 1 will increase the quantity by 1  
 2 will increase the quantity by 2  
 3 will increase the quantity by 3  
