@@ -2,18 +2,20 @@
 Hey! We have a new market system, and at first glance, it can be quite intimidating. Don't worry! Here's a step by step guide on the new features of the system!
 These steps are also displayed in game, but not as in depth as this post.
 
+---
+
 ## Step 1:
 Run the command "/market" in chat. (no quotes)
----
+
 
 ## Step 2:
 Click the left chest named stock at the bottom
----
+
 
 ## Step 3:
 Place the amount of an item you wish to sell on the dark grey squares.
 You can add more than a stack by placing it on top of the pre existing item.
----
+
 
 ## Step 4:
 Right click the item to go into the listing creation GUI.
@@ -49,5 +51,7 @@ When you're happy with the price per amount and quantity, click the green glass 
 Once you put an item up for sale, you can not edit the price or amount. The only way to change the price or ammount is to shift-click the sale to remove the listing, and recreate the listing.
 When you remove a listing, the items will be placed in your stock.
 
-Things you can't sell:
+---
+
+# Things you can't sell:
 - Cobble
