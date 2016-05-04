@@ -33,3 +33,4 @@ PVP is only allowed in the secondary worlds. PvP deaths will not be refunded.
 ##Is Raiding/Griefing allowed?
 Please read our [rules](http://frozensoul.enjin.com/forum/m/8362088/viewthread/19439546-rules)
 
+test
