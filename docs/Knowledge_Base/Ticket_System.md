@@ -13,8 +13,11 @@ responsibility to see that ticket to its completion in a timely and professional
 Please remain online while the staff reviews your ticket. If you are not online, we cannot help you in most cases.
 
 ###Commands
+Please replace # with the number of your ticket
 
-* ``/ticket [problem]`` - This will create a new ticket, please replace [problem] with your issue (do not include [])
-* ``/tickets list `` - This lists any tickets that you made that are currently open or claimed by a staff member
-* ``/tickets comments add # `` - This will add a comment to your ticket, please replace the # with the ticket number
-* ``/tickets comments # `` - This will show you the comments that are on your ticket, please replace the # with the ticket number
+* ``/newticket [problem]`` - This will create a new ticket, please replace [problem] with your issue (do not include [])
+* ``/ticket(/tk)`` - This lists any tickets that you made that are currently open or claimed by a staff member
+* ``/ticket(/tk) #`` - Shows a specific ticket's details
+* ``/tickets # update(/ut #)`` - This will add an update to your ticket so you can include more info
+* ``/tickets # log`` - This will show you the updates/interactions that are on your ticket
+* ``/ticket # location`` - This will update the location of the ticket
