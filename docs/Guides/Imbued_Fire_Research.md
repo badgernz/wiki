@@ -15,8 +15,9 @@ Once you have done this, your client will ignore the Imbued Fire and allow you t
 4. Open the ``config`` folder.
 5. Find the ThaumicTinkerer.cfg file and open that in Notepad.
 6. Under the General section in that config you will see ''B:imbuedFire.enabled=true'' change true to false.
-7. Save the config, exit notepad and start your game again.
-8. You should now be able to skip the step that required Imbued Fire when getting Kami Armor!
+7. Also change "B:imbuedFire.cake.enabled=true" to false.
+8. Save the config, exit notepad and start your game again.
+9. You should now be able to skip the step that required Imbued Fire when getting Kami Armor!
 
 
 ###Technic Launcher
@@ -27,8 +28,9 @@ Once you have done this, your client will ignore the Imbued Fire and allow you t
 4. Open the ``config`` folder.
 5. Find the ThaumicTinkerer.cfg file and open that in Notepad.
 6. Under the General section in that config you will see ''B:imbuedFire.enabled=true'' change true to false.
-7. Save the config, exit notepad and start your game again.
-8. You should now be able to skip the step that required Imbued Fire when getting Kami Armor!
+7. Also change "B:imbuedFire.cake.enabled=true" to false.
+8. Save the config, exit notepad and start your game again.
+9. You should now be able to skip the step that required Imbued Fire when getting Kami Armor!
 
 ###ATLauncher
 
@@ -38,8 +40,9 @@ Once you have done this, your client will ignore the Imbued Fire and allow you t
 4. Open the ``config`` folder.
 5. Find the ThaumicTinkerer.cfg file and open that in Notepad.
 6. Under the General section in that config you will see ''B:imbuedFire.enabled=true'' change true to false.
-7. Save the config, exit notepad and start your game again.
-8. You should now be able to skip the step that required Imbued Fire when getting Kami Armor!
+7. Also change "B:imbuedFire.cake.enabled=true" to false.
+8. Save the config, exit notepad and start your game again.
+9. You should now be able to skip the step that required Imbued Fire when getting Kami Armor!
 
 ###Curse Launcher
 
@@ -49,5 +52,6 @@ Once you have done this, your client will ignore the Imbued Fire and allow you t
 4. Open the ``config`` folder.
 5. Find the ThaumicTinkerer.cfg file and open that in Notepad.
 6. Under the General section in that config you will see ''B:imbuedFire.enabled=true'' change true to false.
-7. Save the config, exit notepad and start your game again.
-8. You should now be able to skip the step that required Imbued Fire when getting Kami Armor!
+7. Also change "B:imbuedFire.cake.enabled=true" to false.
+8. Save the config, exit notepad and start your game again.
+9. You should now be able to skip the step that required Imbued Fire when getting Kami Armor!
