@@ -55,3 +55,7 @@ Once you have done this, your client will ignore the Imbued Fire and allow you t
 7. Also change "B:imbuedFire.cake.enabled=true" to false.
 8. Save the config, exit notepad and start your game again.
 9. You should now be able to skip the step that required Imbued Fire when getting Kami Armor!
+
+##Still Having Trouble?
+
+Make a ticket or contact a staff member for assistance!
