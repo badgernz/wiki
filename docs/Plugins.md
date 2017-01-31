@@ -6,7 +6,7 @@ Here on the FrozenSoul Network we host a range of modpacks with a host of plugin
 ##BetterChunkLoader
 
 This plugin replaces all other chunkloaders ingame.
-Each chunkloader can load up to 49 chunks and it has options for 1x1, 3x3, 5x5 & 7x7.
+Each chunkloader can load up to 9 chunks and it has options for 1x1 & 3x3
 When loading chunks, the chunk that the chunkloader is in, is the center.
 
 ###Usage
