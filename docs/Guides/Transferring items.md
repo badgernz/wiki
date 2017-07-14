@@ -5,7 +5,7 @@
 <p><strong>Holding too many ME system hard drives in your inventory can corrupt it and staff will be unable to retrieve your items</strong>
 
 <h2>How to transfer your items</h2>
-<p><strong>1:</strong>  Pack up all of your items into a chest <strong>(VANILA OR IRON, NOT DIAMOND)</strong></p>
+<p><strong>1:</strong>  Pack up all of your items into a chest <strong>(VANILLA OR IRON, NOT DIAMOND)</strong></p>
 <p><strong>2:</strong>  While holding a feather in your hand, <strong>shift+right click</strong> the chest you would like to move to the other server. You can continue doing this for multiple chests you would like to move.</p>
 <p><strong>3:</strong>  Connect to the server you will be moving to and find a spot for your base</p>
 <p><strong>4:</strong>  Obtain a new feather and <strong>right click</strong> on the ground where you want your chest from the other server to be. You can continue doing this for each chest you have stored.
